@@ -1,7 +1,5 @@
 
-# the Safe-Passage-Publishing Project Has Been Terminated - The project is now: A Public publishing platform for articles, essays, books, newsletters, and historical archives.
-
-livedhistory.org/ ---still being built out. 
+# the Safe-Passage-Publishing Project Has Been Terminated - The project is now: livedhistory.org/ ---still being built out. It's housed in a private repo. 
 
 
 # Safe-Passage-Publishing
