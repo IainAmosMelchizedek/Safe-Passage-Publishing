@@ -1,8 +1,8 @@
 
-# the Safe-Passage-Publishing Project Has Been Terminated - The project is now: livedhistory.org/ ---still being built out. It's housed in a private repo. 
+# The Safe-Passage-Publishing Project Has Been Terminated - The project is now: livedhistory.org/ ---still being built out. It's housed in a private repo. 
 
 
-# Safe-Passage-Publishing
+Safe-Passage-Publishing
 System Name:
 Ghost Publishing Platform
 
